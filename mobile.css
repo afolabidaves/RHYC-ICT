@@ -7,8 +7,13 @@
         display: flex;
     }
     /* ====header banner section ends here==== */
-
+    .header-banner-section{
+        margin: 0 auto;
+        width: 90%;
+    }
+    
     /* ====header banner section starts here==== */
+
     .banner-content-container{
         padding-top: 95px;
     }
