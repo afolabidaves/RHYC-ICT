@@ -43,6 +43,13 @@
     }
 
 
+    .explore-con{
+        padding: 8px 15px;
+    }
+
+    .card-con-hol{
+        padding: 10px 0 50px 0;
+    }
 /* <!-- Footer section starts here --> */
 
 footer{
@@ -51,7 +58,7 @@ footer{
 }
 
 .footer-icon-container{
-    margin: 15px 0;
+    /* margin: 10px 0; */
 }
 
 footer p{

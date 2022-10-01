@@ -249,6 +249,10 @@ nav-brand span {
   margin: 0 0 0 10px;
 }
 /* ====header banner section ends here==== */
+.card.con.hol{
+  padding: 25px 0;
+}
+
 
 .explore-food-section {
   width: 90%;
@@ -314,7 +318,6 @@ nav-brand span {
 /* explore con starts here */
 
 .explore-con{
-  border: 3px solid black;
   display: flex;
   justify-content: space-between;
   padding: 40px 20px 20px 25px;
