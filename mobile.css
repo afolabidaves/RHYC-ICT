@@ -43,6 +43,13 @@
     }
 
 
+    .explore-food-section {
+        border-left: none;
+        border-right: none;
+    }
+
+
+
     .explore-con{
         padding: 8px 15px;
     }
