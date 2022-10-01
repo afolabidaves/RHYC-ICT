@@ -123,7 +123,6 @@ nav-brand span {
   height: 3px;
   position: absolute;
   transform: translateY(10px);
-  /* margin-top: 50px; */
 }
 
 .showburger .menu {
@@ -151,6 +150,7 @@ nav-brand span {
   position: fixed;
   top: 0;
   right: 0;
+  margin-top: 55px;
   z-index: 3;
 }
 
